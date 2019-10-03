@@ -140,6 +140,7 @@ export default {
       options: {
         fields: {},
       },
+      
       agree: false,
       form: {},
     };
